@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NMJt5bFO)
+# Computer Graphics
+
+This project focused on creating three images using three different rendering techniques: path tracing, rasterisation, and ray tracing.
+
+## Pathtraced
+![Pathtraced Image](OutputImages/PathtracerOutput.png)
+
+## Rasterised
+![Pathtraced Image](OutputImages/RasteriserBlinnPhong.png)
+
+## Raytraced
+![Pathtraced Image](OutputImages/RaytracerOutput.png)
