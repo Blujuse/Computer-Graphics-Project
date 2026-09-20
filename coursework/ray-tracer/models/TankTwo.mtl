@@ -1,0 +1,12 @@
+# Blender 4.1.0 MTL File: 'path-tracer.blend'
+# www.blender.org
+
+newmtl Tank2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/University Work/Year 2/CMP5359 Computer Graphics A S2/cmp5359-lab-and-coursework-Blujuse/coursework/path-tracer/Assets/models/Tank/ps1-tank-2/textures/T_Tank2.png

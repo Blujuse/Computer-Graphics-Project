@@ -1,0 +1,12 @@
+# Blender 4.1.0 MTL File: 'path-tracer.blend'
+# www.blender.org
+
+newmtl Model001_Material001
+Ns 555.025024
+Ka 0.404545 0.404545 0.404545
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd E:/University Work/Year 2/CMP5359 Computer Graphics A S2/cmp5359-lab-and-coursework-Blujuse/coursework/path-tracer/Assets/models/Guns/mk23-socom-pistol/source/GameCube - Metal Gear Solid The Twin Snakes - SOCOM/SOCOM/SOCOM.png

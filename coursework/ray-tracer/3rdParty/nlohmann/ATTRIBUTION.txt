@@ -1,0 +1,1 @@
+This is the single-header version of nlohmann's JSON library https://github.com/nlohmann/json.

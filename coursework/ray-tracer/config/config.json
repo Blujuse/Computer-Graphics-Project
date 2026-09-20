@@ -1,0 +1,18 @@
+{
+  "pixWidth": 1920,
+  "pixHeight": 1080,
+
+  "maxBounces": 20,
+
+  "clearColor": [ 0, 0, 0, 255 ],
+
+  "cameraPos": [ 48.1, -17.5, 78.0 ],
+  "cameraForward": [ -0.095, 0.2, 1.0 ],
+  "cameraUp": [ 0.0, 1.0, 0.0 ],
+
+  "cameraFov": 0.785,
+
+  "shuffleScanlines": true,
+
+  "outputFilename": "output.png"
+}
